@@ -1,0 +1,15 @@
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommanLayer.dll
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\bin\Debug\netcoreapp3.1\CommanLayer.pdb
+E:\BridgelabzProject\EmployeePayrollMVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete

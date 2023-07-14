@@ -1,0 +1,101 @@
+﻿@model IEnumerable<CommanLayer.Models.EmployeeModel>
+
+@{
+    ViewData["Title"] = "GetAllEmployees";
+}
+
+<h1>GetAllEmployees</h1>
+
+<p>
+    <a asp-action="AddEmployee">AddEmployee</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Profile_Image)
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+           @* <th>
+                @Html.DisplayNameFor(model => model.IsTrash)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.UpdateDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpId)
+                 
+                    
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+               @* @Html.DisplayFor(modelItem => item.Profile_Image)*@
+                    @* <img class="Profile-image-1" src="~/Assets/Male (1).png" />*@
+                   
+                    <img src="@Url.Content(item.Profile_Image)"/>
+                
+                   
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+           @* <td>
+                @Html.DisplayFor(modelItem => item.IsTrash)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateDate)
+            </td>
+               @* <td>
+                    @Html.ActionLink("Edit", "UpdateEmployee", new { id=item.EmpId }) |
+                    @Html.ActionLink("Details", "GetAllEmployeesbyId", new { id=item.EmpId}) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.EmpId })
+                    
+                </td>*@
+        </tr>
+}@*
+        <h3>ViewData is=  @ViewData["Var1"] </h3>
+        <h3>TempData is= @TempData["Var2"]</h3>*@
+    </tbody>
+</table>

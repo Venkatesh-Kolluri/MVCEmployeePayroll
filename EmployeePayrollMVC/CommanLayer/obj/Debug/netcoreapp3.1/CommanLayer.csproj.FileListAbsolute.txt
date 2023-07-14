@@ -1,0 +1,10 @@
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.deps.json
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.dll
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\bin\Debug\netcoreapp3.1\CommanLayer.pdb
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.csproj.AssemblyReference.cache
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.AssemblyInfoInputs.cache
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.AssemblyInfo.cs
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.csproj.CoreCompileInputs.cache
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.dll
+E:\BridgelabzProject\EmployeePayrollMVC\CommanLayer\obj\Debug\netcoreapp3.1\CommanLayer.pdb
